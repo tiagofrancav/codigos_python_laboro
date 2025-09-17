@@ -24,3 +24,10 @@ print('-' * 20)
 ## Exemplo 3 - Contador de 1 a 10, pulando de 2 em 2.
 for contador in range(0, 22, 2):
     print(contador, end=', ')
+
+print("\n")
+print("-" * 20)
+
+## Atividade 1 - Contador de 10 a 500, pulando de 10 em 10.
+for contador in range(10, 501, 10):
+    print(contador, end=', ')
